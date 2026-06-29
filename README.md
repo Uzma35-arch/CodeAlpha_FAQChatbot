@@ -47,7 +47,7 @@ FAQChatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/FAQChatbot.git
+git clone https://github.com/Uzma35-arch/FAQChatbot.git
 ```
 
 ### 2. Open the Project Folder
@@ -125,19 +125,6 @@ What is Python?
 
 ```
 Python is a high-level programming language used for web development, AI, data science, automation, and many other applications.
-```
-
----
-
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/home.png
-screenshots/chatbot.png
 ```
 
 ---
